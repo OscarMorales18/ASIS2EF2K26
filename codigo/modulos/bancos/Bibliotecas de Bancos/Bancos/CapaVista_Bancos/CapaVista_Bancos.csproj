@@ -38,6 +38,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\..\componentes\navegador\Navegador\CapaVista_Navegador\bin\Debug\CapaVista_Navegador.dll</HintPath>
     </Reference>
+    <Reference Include="CapaVista_PROVEEDORES">
+      <HintPath>..\..\PROVEEDORES_EXAMEN_CUARTA_SERIE\CapaVista_PROVEEDORES\bin\Debug\CapaVista_PROVEEDORES.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
