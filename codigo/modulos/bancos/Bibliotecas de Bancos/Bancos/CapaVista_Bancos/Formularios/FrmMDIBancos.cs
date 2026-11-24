@@ -38,6 +38,7 @@ using CapaVista_TipoCambio.Formularios;
 using CapaVista_ConciliacionBancaria.Formularios;
 using CapaVista_GeneracionPagos.Formularios;
 using CapaVista_CierreBancario.Formularios;
+using CapaVista_PROVEEDORES.Formularios;
 
 
 namespace CapaVista_Bancos.Formularios
@@ -173,6 +174,12 @@ namespace CapaVista_Bancos.Formularios
             {
                 this.Close();
             }
+        }
+
+        private void BancosBtnProveedores_Click(object sender, EventArgs e)
+        {
+            FrmProveedorNavegador Proveedor = new FrmProveedorNavegador();
+            Proveedor.ShowDialog();
         }
     }
 }
