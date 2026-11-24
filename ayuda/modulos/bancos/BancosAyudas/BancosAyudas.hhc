@@ -24,6 +24,14 @@
 		</OBJECT>
 	<UL>
 		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Proveedor_Bancos">
+			<param name="Local" value="Proveedores_Bancos.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Proveedor_Ayudas">
+			<param name="Local" value="Proveedores_Bancos.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
 			<param name="Name" value="Bancos_Bancos">
 			<param name="Local" value="Bancos_Bancos.html">
 			</OBJECT>
